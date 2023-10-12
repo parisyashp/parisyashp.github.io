@@ -1,0 +1,20 @@
+.logo{
+    margin-top: 20px;
+}
+.body {
+font-family: 'Nunito', sans-serif;
+}
+.targetcus_heading{
+font-size: 50px; font-weight: 800; margin-top: 0px; margin-bottom: 50px;
+}
+
+.subHeading{
+margin-bottom: 10px; margin-right: 36px;
+}
+.detailing_text{
+margin-bottom: 43px; font-size: 23px; font-weight: light;
+}
+
+.closing{
+ font-size: 32px;  padding-right: 200px;
+}
