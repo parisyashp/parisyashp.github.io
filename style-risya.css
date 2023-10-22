@@ -13,12 +13,12 @@ body{
   }
 @font-face {
     font-family: 'ananda';
-    src: url(assets/font/Ananda_Black_Personal_Use.ttf);
+    src: url(Ananda_Black_Personal_Use.ttf);
 
 }
 @font-face {
     font-family: 'lexend';
-    src: url(assets/font/Lexend-VariableFont_wght.ttf);
+    src: url(Lexend-VariableFont_wght.ttf);
 
 }
 .flex{
