@@ -1,18 +1,21 @@
 ---
 layout: article
 title: About Me
-author: Nurvirta Monarizqa
+author: Parisya Saniya
 share: true
-modified: 2021-01-12T16:00:57-04:00
+modified: 2025-01-20T16:00:57-04:00
 image:
     feature: head2.jpg
 ---
 
-Hello, my name is Nurvirta Monarizqa, but simply call me Mona. 
+I am a 20-year-old Information Systems student currently studying at the
+University of Pisa.
 
-I am a Data Scientist, working for [Microsoft](https://twitter.com/msftsecurity) and currently residing in Bellevue, across the lake from Seattle. An alumna of [Urban Science + Progress, New York University](https://twitter.com/NYU_CUSP)
+My interests include:
+- AI-powered products
+- UX & Design Thinking
+- Business & Data Analysis
 
-I love playing with data and visualization, especially when it comes to data for greater good. Besides data analytics, sometimes I do web design and digital illustrations. You can see my portofolio [here](/portofolio/), my resume on [LinkedIn](https://www.linkedin.com/in/nmonarizqa), or my other writings on [Medium](https://medium.com/@nmonarizqa).
-
-Let's keep in touch! Drop me a message at nmonarizqa [at] windowslive [dot] com. See you there :)
+I aim to work in roles such as Product Manager, Business Analyst,
+or AI Designer.
 
