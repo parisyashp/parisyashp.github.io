@@ -8,14 +8,9 @@ image:
     feature: head2.jpg
 ---
 
-I am a 20-year-old Information Systems student currently studying at the
-University of Pisa.
+I am a final-year Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) with academic and practical exposure in enterprise systems, business process engineering, and data analytics.
 
-My interests include:
-- AI-powered products
-- UX & Design Thinking
-- Business & Data Analysis
+My experience spans ERP-related coursework, SAP S/4HANA fundamentals, business requirements engineering, and consulting-style problem solving. I have worked on system documentation, BPMN, ERD design, data warehouse development, and strategic dashboards using Power BI.
 
-I aim to work in roles such as Product Manager, Business Analyst,
-or AI Designer.
+Through consulting organizations and internships, I have collaborated with cross-functional teams to analyze business problems, validate system requirements, and deliver structured, actionable insights. I am particularly interested in roles such as Business Analyst, ERP Analyst, Data Analyst, and Consulting Analyst.
 
