@@ -5,7 +5,7 @@ author: Parisya Saniya
 share: true
 modified: 2025-01-20T16:00:57-04:00
 image:
-    feature: foto-speaker.jpg
+    feature: foto-speaker.jpeg
 ---
 
 I am a final-year Information Systems student at Institut Teknologi Sepuluh Nopember (ITS) with academic and practical exposure in enterprise systems, business process engineering, and data analytics.

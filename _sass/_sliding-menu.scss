@@ -83,7 +83,8 @@
     transform: translateX(0);
   }
   h5 {
-    margin: 0 20% 0 10%;
+    margin: 0 2rem 1rem 2rem;
+    /*margin: 0 20% 0 10%;*/
     @include media($large) {
       margin-right: 20%;
     }
@@ -104,7 +105,7 @@
     }
   }
   ul {
-    margin: 0 10%;
+    margin: 0 2rem;
     @include media($large) {
       margin-right: 20%;
     }
@@ -116,11 +117,11 @@
   li {
     display: block;
     position: relative;
-    padding-bottom: 1em;
-    min-height: 70px;
-    @include media($small) {
+    padding-bottom: 0.5em;
+    min-height: auto;
+    /*@include media($small) {
       min-height: 100px;
-    }
+    }*/
   }
   .menu-item {
     a {
@@ -129,7 +130,8 @@
       text-decoration: none;
     }
     .teaser {
-      position: absolute;
+      display: none;
+      /*position: absolute;
       left: 0;
       margin-bottom: 0;
       width: 50px;
@@ -138,15 +140,16 @@
       opacity: 0.6;
       @include media($small) {
         width: 150px;
-      }
+      }*/
     }
     a:hover .teaser {
       opacity: 1;
     }
     .title {
       display: block;
-      margin-left: 60px;
-      font-family: $alt-font;
+      margin-left: 0;
+      font-family: $base-font;
+      letter-spacing: 0.02em;
       @include font-size(24,no);
       font-weight: 700;
       @include media($small) {
@@ -156,7 +159,7 @@
     }
     .excerpt {
       margin-top: 0;
-      margin-left: 60px;
+      margin-left: 0;
       @include font-size(14,no);
       @include media($small) {
         margin-left: 170px;

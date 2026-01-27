@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: Portofolio
+- title: About
   url: /about/
-
+  
 - title: Portofolio
   url: /portofolio/
   excerpt: "On What I've Done So Far"
