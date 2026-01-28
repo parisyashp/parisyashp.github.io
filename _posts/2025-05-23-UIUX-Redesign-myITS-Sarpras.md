@@ -11,10 +11,7 @@ tags: UI/UX, Figma, User, App
 
 This project focused on the **redesign of an existing internal campus system** at Institut Teknologi Sepuluh Nopember (ITS), specifically within the **Facilities and Infrastructure Division (Sarpras ITS)**. Sarpras is responsible for managing the borrowing and use of campus facilities such as rooms, equipment, and other physical infrastructure.
 
-At the time of this project, the borrowing process was still largely **manual and fragmented**, leading to inefficiencies for both users and administrators. To address this, our team conducted a case study using the **Design Thinking framework** to design a more user-centered, digital solution.
-
-The outcome of this project was a conceptual redesign in the form of a mobile and web application prototype called “**myITS Sarpras**.”
-
+At the time of this project, the borrowing process was still largely **manual and fragmented**, leading to inefficiencies for both users and administrators. To address this, our team conducted a case study using the **Design Thinking framework** to design a more user-centered, digital solution. The outcome of this project was a conceptual redesign in the form of a mobile and web application prototype called “**myITS Sarpras**.”
 <figure class="center-img">
   <img src="{{ site.url }}/images/Poster-DPP.jpg" class="img-small">
 </figure>

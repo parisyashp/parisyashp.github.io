@@ -124,14 +124,17 @@
   }
   .menu-item {
     a {
-      display: block;
+      /*display: block;*/
+      display: flex;
       color: $white;
       text-decoration: none;
+      flex-direction: column;
+      align-items: flex-start;
     }
     .teaser {
-      position: absolute;
+      position: static;
       left: 0;
-      margin-bottom: 0;
+      margin-bottom: 1 rem;
       width: 50px;
       border: 2px solid $white;
       margin-bottom: ($gutter / 2);
