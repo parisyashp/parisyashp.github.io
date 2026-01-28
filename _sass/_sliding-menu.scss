@@ -123,52 +123,52 @@
     }*/
   }
   .menu-item {
-  a {
-    display: flex;
-    align-items: center;
-    gap: 1.25rem;
-    color: $white;
-    text-decoration: none;
-  }
 
-  .teaser {
-    position: relative;
-    width: 64px;
-    height: auto;
-    flex-shrink: 0;
-    border: 2px solid $white;
-    opacity: 0.6;
+    a {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      color: $white;
+      text-decoration: none;
+    }
 
-    @include media($small) {
-      width: 120px;
+    .teaser {
+      width: 64px;
+      flex-shrink: 0;
+      border: 2px solid $white;
+      opacity: 0.6;
+
+      @include media($small) {
+        width: 120px;
+      }
+    }
+
+    a:hover .teaser {
+      opacity: 1;
+    }
+
+    .title {
+      font-family: $base-font;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      margin: 0;
+      @include font-size(24,no);
+
+      @include media($small) {
+        @include font-size(32,no);
+      }
+    }
+
+    .excerpt {
+      margin: 0.25rem 0 0;
+      opacity: 0.8;
+      @include font-size(14,no);
+
+      @include media($small) {
+        @include font-size(16,no);
+      }
     }
   }
-
-  a:hover .teaser {
-    opacity: 1;
-  }
-
-  .title {
-    margin: 0;
-    font-family: $base-font;
-    font-weight: 700;
-    letter-spacing: 0.02em;
-    @include font-size(24,no);
-
-    @include media($small) {
-      @include font-size(32,no);
-    }
-  }
-
-  .excerpt {
-    margin: 0.25rem 0 0;
-    @include font-size(14,no);
-
-    @include media($small) {
-      @include font-size(16,no);
-    }
-  }
-}
 }
 
 /* Dim content when off canvas nav slides in */
