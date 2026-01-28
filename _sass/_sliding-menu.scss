@@ -130,6 +130,18 @@
       gap: 1.25rem;
       color: $white;
       text-decoration: none;
+      align-items: flex-start;
+
+      .title {
+        display: block;
+        margin-left: 0;
+        font-weight: 700;
+      }
+
+      .excerpt{
+        display: block;
+        margin-left: 0;
+      }
     }
 
     .teaser {
@@ -162,6 +174,7 @@
     .excerpt {
       margin: 0.25rem 0 0;
       opacity: 0.8;
+      font-style: italic;
       @include font-size(14,no);
 
       @include media($small) {
