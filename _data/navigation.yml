@@ -6,7 +6,7 @@
   
 - title: Portofolio
   url: /portofolio/
-  excerpt: "On What I've Done So Far"
+  #excerpt: "On What I've Done So Far"
   image: porto-icon.png
 
 - title: GitHub
