@@ -130,8 +130,8 @@
       text-decoration: none;
     }
     .teaser {
-      display: none;
-      /*position: absolute;
+      /*display: none;*/
+      position: absolute;
       left: 0;
       margin-bottom: 0;
       width: 50px;
@@ -140,7 +140,7 @@
       opacity: 0.6;
       @include media($small) {
         width: 150px;
-      }*/
+      }
     }
     a:hover .teaser {
       opacity: 1;
