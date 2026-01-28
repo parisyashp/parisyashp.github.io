@@ -216,6 +216,12 @@ figcaption {
   height: auto;
 }
 
+.img-small {
+  width: 60%;   /* try 40–70% */
+  max-width: 600px; /* optional: cap size */
+  height: auto;
+}
+
 /* Fix IE9 SVG bug */
 svg:not(:root) {
   overflow: hidden;
