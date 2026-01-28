@@ -6,7 +6,7 @@
 - title: Portofolio
   url: /portofolio/
   excerpt: "On What I've Done So Far"
-  image: #portofolio.PNG
+  #image: portofolio.PNG
 
 - title: GitHub
   url: http://www.github.com/parisyashp

@@ -196,6 +196,18 @@ figcaption {
   }
 }
 
+.grid-2x2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.grid-2x2 img {
+  width: 100%;
+  height: auto;
+}
+
+
 /* Fix IE9 SVG bug */
 svg:not(:root) {
   overflow: hidden;

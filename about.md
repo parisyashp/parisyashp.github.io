@@ -14,3 +14,7 @@ My experience spans ERP-related coursework, SAP S/4HANA fundamentals, business r
 
 Through consulting organizations and internships, I have collaborated with cross-functional teams to analyze business problems, validate system requirements, and deliver structured, actionable insights. I am particularly interested in roles such as Business Analyst, ERP Analyst, Data Analyst, and Consulting Analyst.
 
+<figure class="half">
+    <img src="{{ site.url }}/images/foto-pisa-torre.jpeg">
+    <img src="{{ site.url}}/images/foto-un.jpeg">
+</figure>

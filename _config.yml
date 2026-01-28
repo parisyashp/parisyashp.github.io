@@ -28,12 +28,12 @@ gems:
 # Site owner
 owner:
   name: "Parisya Saniya"
-  email: "saniyahendi@windowslive.com"
+  email: "saniyahendi@gmail.com"
   google:
     ad-client:
     ad-slot:
-  bio: "Exploration to infinity and beyond"
-  avatar: foto-profil.jgp # 160x160 px image for author byline
+  bio: "To infinity and beyond!"
+  avatar: foto-profil.jpg  # 160x160 px image for author byline
   disqus-shortname:
 
 
