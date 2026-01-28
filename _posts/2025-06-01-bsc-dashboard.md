@@ -5,7 +5,7 @@ share: true
 categories: [portofolio]
 modified: 2018-09-13T18:32:57-07:00
 image:
- teaser: teaser-meoti-dashboard.png
+ teaser: dashboard-meoti-1.png
 tags: [Data Analytics, Power BI, Business Strategy]
 ---
 
@@ -20,9 +20,10 @@ Developed a strategic performance dashboard based on the Balanced Scorecard fram
 **Tools:** Power BI, Power Query, DAX, Excel  
 **Focus Area:** Business Performance, Data Analytics, Strategy
 
-<p style="text-align:center;">
-  <img src="{{ site.url }}/images/poster-meoti.png" alt="">
-</p>
+<figure class="center-img">
+  <img src="{{ site.url }}/images/poster-meoti.png">
+</figure>
+
 
 <figure class="grid-2x2">
 	<img src="{{ site.url }}/images/dashboard-meoti-1.png">

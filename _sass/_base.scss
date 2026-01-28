@@ -207,6 +207,14 @@ figcaption {
   height: auto;
 }
 
+.center-img {
+  text-align: center;
+}
+
+.center-img img {
+  max-width: 100%;
+  height: auto;
+}
 
 /* Fix IE9 SVG bug */
 svg:not(:root) {
