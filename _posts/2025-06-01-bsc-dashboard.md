@@ -2,11 +2,11 @@
 layout: article
 title: "Strategic Performance Dashboard (Balanced Scorecard)"
 share: true
-categories: [portofolio]
-modified: 2018-09-13T18:32:57-07:00
+categories: portofolio
+modified: 2025-06-01T18:32:57-07:00
 image:
  teaser: dashboard-meoti-1.png
-tags: [Data Analytics, Power BI, Business Strategy]
+tags: Data Analytics, Power BI, Business Strategy
 ---
 
 Developed a strategic performance dashboard based on the Balanced Scorecard framework to monitor KPIs across Financial, Customer, Internal Process, and Learning & Growth perspectives.

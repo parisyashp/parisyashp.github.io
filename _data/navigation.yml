@@ -2,17 +2,21 @@
 
 - title: About
   url: /about/
+  image: user_icon.png
   
 - title: Portofolio
   url: /portofolio/
   excerpt: "On What I've Done So Far"
-  #image: portofolio.PNG
+  image: folder_icon.png
 
 - title: GitHub
   url: http://www.github.com/parisyashp
+  image: github_icon.png
 
 - title: CV
   url: https://drive.google.com/drive/folders/19YI_dQccoRGMJpAmqtUyBoqXEjxo1pn7?usp=sharing
+  image: cv_icon.png
 
 - title: LinkedIn
   url: https://linkedin.com/in/parisyashp
+  image: linkedin_icon.png
