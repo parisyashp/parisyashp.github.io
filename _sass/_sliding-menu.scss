@@ -117,7 +117,7 @@
   li {
     display: block;
     position: relative;
-    padding-bottom: 0.5em;
+    padding-bottom: 1em;
     min-height: auto;
     /*@include media($small) {
       min-height: 100px;
@@ -130,7 +130,6 @@
       text-decoration: none;
     }
     .teaser {
-      /*display: none;*/
       position: absolute;
       left: 0;
       margin-bottom: 0;
@@ -147,7 +146,7 @@
     }
     .title {
       display: block;
-      margin-left: 0;
+      margin-left: 60px;
       font-family: $base-font;
       letter-spacing: 0.02em;
       @include font-size(24,no);
@@ -159,7 +158,7 @@
     }
     .excerpt {
       margin-top: 0;
-      margin-left: 0;
+      margin-left: 60px;
       @include font-size(14,no);
       @include media($small) {
         margin-left: 170px;
