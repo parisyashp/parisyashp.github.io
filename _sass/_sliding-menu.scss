@@ -83,8 +83,7 @@
     transform: translateX(0);
   }
   h5 {
-    margin: 0 2rem 1rem 2rem;
-    /*margin: 0 20% 0 10%;*/
+    margin: 0 20% 0 10%;
     @include media($large) {
       margin-right: 20%;
     }
@@ -105,7 +104,7 @@
     }
   }
   ul {
-    margin: 0 2rem;
+    margin: 0 10%;
     @include media($large) {
       margin-right: 20%;
     }
@@ -118,10 +117,10 @@
     display: block;
     position: relative;
     padding-bottom: 1em;
-    min-height: auto;
-    /*@include media($small) {
+    min-height: 70px;
+    @include media($small) {
       min-height: 100px;
-    }*/
+    }
   }
   .menu-item {
     a {
