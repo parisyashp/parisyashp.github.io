@@ -17,7 +17,7 @@ At the time of this project, the borrowing process was still largely **manual an
 </figure>
 
 
-**Tools & Skills:** Figma, Design Thinking, UI/UX, User Research
+Tools & Skills: Figma, Design Thinking, UI/UX, User Research
 ---
 
 ### **Problem**
@@ -32,11 +32,18 @@ Based on early-stage user interviews and field observations, we identified sever
 - These issues resulted in inefficiency, poor user experience, and increased administrative workload.
 
 <figure class="center-img">
-  <img src="{{ site.url }}/images/dpp-our-user.png">
+  <img src="{{ site.url }}/images/dpp-our-user.png" class="img-small>
 </figure>
 
+### **Ideation**
+Based on the existing problem and user inputs, we encoded these values to the prototype:
+Accessibility, efficiency, transparency, clarity, and responsiveness.
 
-### **Problem**
+<figure class="center-img">
+  <img src="{{ site.url }}/images/dpp-features.png" class="img-small>
+</figure>
+
+### **Role**
 
 I acted as a **UI/UX Researcher and Designer**, with responsibilities including:
 
@@ -61,8 +68,6 @@ This project applied the **Design Thinking framework**, consisting of the follow
      Designed low-fidelity wireframes and iterated into a high-fidelity UI prototype representing the proposed system.
 - **Test**:
      Conducted usability testing to validate flows, usability, and clarity of the interface.
-
-
 
 **Key Deliverables**:
 - User personas and problem statements
